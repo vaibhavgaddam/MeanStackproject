@@ -1,4 +1,4 @@
-To run the project you have to first connect to mangodb database as password fiels is empty.
+To run the project you have to first connect to mangodb database as password field is empty.
 
 You can run the project with command: npm start
 
